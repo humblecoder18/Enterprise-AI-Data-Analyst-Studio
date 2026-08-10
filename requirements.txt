@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.59.2
 pandas
 numpy
-matplotlib
+matplotlib==3.10.8
 seaborn
 plotly
 scikit-learn
@@ -10,16 +10,11 @@ xgboost
 shap
 openpyxl
 pillow
-
 supabase
 python-dotenv
-
 groq
-
 reportlab
-
 requests
 httpx
 tenacity
-
 ollama
